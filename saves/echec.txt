@@ -1,0 +1,12 @@
+Roi
+noir
+1
+A8
+Tour
+blanc
+3
+D7
+Roi
+blanc
+1
+C5
